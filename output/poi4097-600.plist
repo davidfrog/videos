@@ -7,13 +7,13 @@
 	<key>audioCodecInfo</key>
 	<string>mp4a.40.2</string>
 	<key>avgBitRate</key>
-	<integer>651506</integer>
+	<integer>655663</integer>
 	<key>iframe_MaxBitRate</key>
-	<integer>28325</integer>
+	<integer>31426</integer>
 	<key>iframe_avgBitRate</key>
-	<integer>20338</integer>
+	<integer>19762</integer>
 	<key>maxBitRate</key>
-	<integer>756061</integer>
+	<integer>755309</integer>
 	<key>videoCodecInfo</key>
 	<string>avc1.640033</string>
 	<key>videoDimensions</key>

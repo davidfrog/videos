@@ -4,12 +4,12 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTINF:10.00000,	
-#EXT-X-BITRATE:6996
-fileSequence3.ts
+#EXT-X-BITRATE:6953
+fileSequence6.ts
 #EXTINF:10.00000,	
-#EXT-X-BITRATE:6483
-fileSequence4.ts
+#EXT-X-BITRATE:6524
+fileSequence7.ts
 #EXTINF:3.40267,	
 #EXT-X-BITRATE:332
-fileSequence5.ts
+fileSequence8.ts
 #EXT-X-ENDLIST
